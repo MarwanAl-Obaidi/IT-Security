@@ -1,4 +1,4 @@
-# 3 Financial Sector
+# 3 Financial Sector Quiz
 
 ### Which group commits the most data breaches on the financial sector?
 
